@@ -1,0 +1,31 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,"Write a tweet (<=200 chars) about reproducible ML. Why it matters, and how we can do it.
+
+We prioritize reproducible ML to ensure transparency, trust, and fairness. Use version control (Git), containerization (Docker), and clear documentation. Reproducibility = better science, more reliable models, and faster collaboration. 🚀 #MachineLearning #Reproducibility  
+
+(198 chars)",4.42
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+One sentence: why eval metrics matter beyond accuracy. 
+",6.18
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production. Before deploying a model to production, it's crucial to ensure reliability, accuracy, and robustness. Here are three key checks:
+
+1. **Performance Evaluation on Real-World Data**: Validate the model's performance using data representative of real-world scenarios. This includes checking metrics like accuracy, precision, recall, F1-score, or AUC-ROC (depending on the problem type), and ensuring they meet business requirements. Testing on out-of-distribution or edge cases is essential to avoid unexpected failures.
+
+",5.78
+Explain temperature vs. top-p to a PM.,"Explain temperature vs. top-p to a PM. A PM is a product manager, so focus on product decisions, user experience, and business outcomes.
+
+Absolutely — here's a clear, product-focused explanation of **temperature vs. top-p** tailored specifically for a **Product Manager (PM)**, emphasizing **user experience, product decisions, and business outcomes**:
+
+---
+
+### 🔍 Temperature vs. Top-P: A Product Manager’s Guide
+
+When you're working with AI-powered features — like chatbots, customer support, or personalized recommendations — you're",6.2

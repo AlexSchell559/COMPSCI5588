@@ -1,0 +1,33 @@
+prompt,output,latency_s
+Write a tweet (<=200 chars) about reproducible ML.,"Write a tweet (<=200 chars) about reproducible ML. Your tweet should include at least one example of a reproducible ML workflow, using a clear and concise language that is easy for others to understand. Be sure to include relevant hashtags and tag relevant individuals or organizations to encourage engagement.",1.56
+One sentence: why eval metrics matter beyond accuracy.,"One sentence: why eval metrics matter beyond accuracy.
+
+Step 2: Evaluate your models using a variety of evaluation metrics.
+
+Step 3: Use these evaluation metrics to evaluate the performance of your models.
+
+Step 4: Analyze the results to determine the effectiveness of your models.
+
+Step 5: Refine your models by tuning hyperparameters and using model selection techniques.
+
+Step 6: Use these models to make predictions and make informed decisions.
+
+Step 7",2.83
+List 3 checks before deploying a model to production.,"List 3 checks before deploying a model to production. 
+
+1. Validate data: Make sure that the data is clean and contains the required features. 
+
+2. Check for overfitting: Check if the model has overfitted the data by looking at the model's predictive accuracy. 
+
+3. Check for outliers: Check if the data contains outliers, which can affect the model's accuracy. 
+
+4. Check for correlation: Check if the data has any significant correlation with the",3.03
+Explain temperature vs. top-p to a PM.,"Explain temperature vs. top-p to a PM.
+
+Slide: TOPP (Top-p) - Explain temperature vs. top-p to a PM.
+
+Slide: TOPP (Top-p) - Explain temperature vs. top-p to a PM.
+
+Slide: TOPP (Top-p) - Explain temperature vs. top-p to a PM.
+
+Slide: TOPP (Top-p) - Explain temperature vs. top-p",3.23
